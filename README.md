@@ -144,7 +144,7 @@ Java framework learning notes recording
 
 #### 1.4 Spring Boot
 
-![Spring Boot](./images/Spring Boot.png)
+![SpringBoot](./images/SpringBoot.png)
 
 1. 认识Spring Boot
 2. 运行原理
