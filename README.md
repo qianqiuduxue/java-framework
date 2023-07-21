@@ -15,11 +15,11 @@ Java framework learning notes recording
 
 2. 传统Dao层实现与Mybatis的简单实现
 
-3. Mybatis配置
+3. **Mybatis配置**
 
-4. 使用xml实现CRUD
+4. **使用xml实现CRUD**
 
-5. 注解实现
+5. **注解**实现
 
    - @Alias
 
@@ -51,7 +51,7 @@ Java framework learning notes recording
 
 3. HelloSpring
 
-4. IOC创建对象的方式
+4. **IOC创建对象**的方式
 
    - 无参构造创建
    - 有参构造创建
@@ -61,7 +61,7 @@ Java framework learning notes recording
 
 5. Spring配置文件
 
-6. 依赖注入DI
+6. **依赖注入DI**
 
    - 构造器
    - setter注入
@@ -70,7 +70,7 @@ Java framework learning notes recording
 
 7. 作用域
 
-8. 注解
+8. **注解**
 
    1）Bean    =>  @Component
 
@@ -90,7 +90,7 @@ Java framework learning notes recording
 
    ​	@Scope
 
-9. 使用Java类实现xml配置
+9. **使用Java类实现xml配置**
 
 10. 代理
 
@@ -106,7 +106,7 @@ Java framework learning notes recording
 
 2. Spring MVC执行流程
 
-3. 注解版Spring MVC开发
+3. **注解版Spring MVC开发**
 
    @Controller
 
@@ -130,7 +130,7 @@ Java framework learning notes recording
 
 5. RestFul风格
 
-6. 处理数据及结果跳转
+6. **处理数据及结果跳转**
 
    1）获取请求参数
 
@@ -150,7 +150,7 @@ Java framework learning notes recording
 2. 运行原理
 3. Spring Boot配置
    - 全局配置文件（application.properties / application.yaml）
-   - yaml配置文件
+   - **yaml配置文件**
      - 使用yaml文件实现属性注入
        - @Component
        - @ConfigurationProperties(prefix="ymal文件名")
@@ -160,5 +160,5 @@ Java framework learning notes recording
    - Conditional
 7. 静态资源路径
 8. 模板引擎 Thymeleaf
-9. 扩展装备Spring MVC
+9. **扩展装备Spring MVC**
 
