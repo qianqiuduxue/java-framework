@@ -162,3 +162,68 @@ Java framework learning notes recording
 8. 模板引擎 Thymeleaf
 9. **扩展装备Spring MVC**
 
+
+
+#### 1.5 Redis
+
+![img](./images/wps2.png)
+
+​    1.NoSQL数据库简介
+
+​    2.Redis安装
+
+​    3.常用五大数据类型
+
+​		1）Redis键（key）
+
+​		2）Redis字符串（String）
+
+​		3）Redis列表（List）
+
+​		4）Redis集合（Set）
+
+​		5）Redis哈希（Hash）
+
+​		6）Redis有序集合Zset（sorted set）
+
+​	4.Redis配置文件介绍
+
+​	5.Redis的发布和订阅
+
+​	6.Redis新数据类型
+
+​		1）Bitmaps
+
+​		2）HyperLogLog
+
+​		3）Geospatial
+
+ 7. Redis_Jedis_测试
+
+ 8. Redis_Jedis_实例
+
+ 9. Redis与Spring Bootzhenghe
+
+ 10. Redis_事务_锁机制_秒杀
+
+     10.1 Redis事务定义
+
+     10.2 Mult、Exec、discard
+
+     10.3 事务的错误处理
+
+     10.4 事务冲突
+
+     10.5 Redis事务三特性
+
+     ![img](./images/wps8.jpg)
+
+     
+
+ 11. Redis持久化之RDB
+
+     ![image-20230804135722500](./images/image-20230804135722500.png)
+
+ 12. Redis持久化之AOF
+
+     ![image-20230804140604774](./images/image-20230804140604774.png)
