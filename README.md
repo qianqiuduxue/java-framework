@@ -21,9 +21,9 @@ Java framework learning notes recording
 
 5. **注解**实现
 
-   - @Alias
+   - @Alias 类型别名
 
-   - @param("id")
+   - @param("id") 规范化开发
    - @Select
    - @Insert
    - @Update
@@ -108,9 +108,9 @@ Java framework learning notes recording
 
 3. **注解版Spring MVC开发**
 
-   @Controller
+   @Controller（声明一个类实例是控制器）
 
-   @RequestMapping
+   @RequestMapping（获取请求参数）
 
    @GetMapping
 
@@ -120,11 +120,11 @@ Java framework learning notes recording
 
    @DeleteMapping
 
-   @PathVariable
+   @PathVariable（Restful风格传参，用来标识参数）
 
    @RequestParam
 
-   @ResponseBody
+   @ResponseBody（返回值就是响应体，不是视图名）
 
 4. Controller配置
 
@@ -160,7 +160,6 @@ Java framework learning notes recording
    - Conditional
 7. 静态资源路径
 8. 模板引擎 Thymeleaf
-9. **扩展装备Spring MVC**
 
 
 
